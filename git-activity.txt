@@ -1,1 +1,2 @@
-This is my first Git activity.
+This is my first Git activity. 
+Example: git-activity.txt file. Save the changes.
