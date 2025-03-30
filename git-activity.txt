@@ -1,1 +1,1 @@
-This is my first Git activity.
+This is my second time in Git activity.
